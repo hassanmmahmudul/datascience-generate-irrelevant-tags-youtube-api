@@ -1,4 +1,5 @@
 # Generate Irrelevant Tags YouTube API
+## IEEE Standard Academic Paper
 ***Abstract<br/> 
 With more than 2 billion active users [10], YouTube is the largest 
 video sharing social media platform which currently not only helping 
@@ -20,4 +21,4 @@ with the selected datasets. Our emphasis been given on a
 slight different domain, mostly how the algorithm and
 models can be used and improved for novice music video
 uploaders when an user try to find a new artist with new or
-unplugged music videos.***
+unplugged music videos.</br></br>Index Terms— Irreverent YouTube videos, misleading metadata detection, comment classification, tag relevance learning, re-ranking and relevance.***
