@@ -1,4 +1,4 @@
-# Data Science: Generate Irrelevant Tags YouTube API
+# Generate Irrelevant Tags YouTube API
 ***Abstract<br/> 
 With more than 2 billion active users [10], YouTube is the largest 
 video sharing social media platform which currently not only helping 
