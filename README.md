@@ -2,11 +2,11 @@
 ## IEEE Standard Academic Paper
 
 
-#### Conducted research on improving YouTube video retrieval leveraging K-means clustering and KNN for non-trending keyword searches, targeting novice music artists
-#### Developed a pipeline using FastText, spaCy, and FuzzyWuzzy for NLP tasks including keyword extraction, semantic similarity, and text preprocessing
-#### Integrated YouTube API with Python (pandas, NLTK) to collect, clean, and structure video metadata for unsupervised learning.
-#### Reviewed and benchmarked models from IEEE/ACM literature, including Tag-Based Video Retrieval (TBVR) and relevance feedback approaches.
-#### Evaluated model performance using cluster accuracy metrics and analyzed limitations related to scalability and domain generalization.
+#### -Conducted research on improving YouTube video retrieval leveraging K-means clustering and KNN for non-trending keyword searches, targeting novice music artists
+#### -Developed a pipeline using FastText, spaCy, and FuzzyWuzzy for NLP tasks including keyword extraction, semantic similarity, and text preprocessing
+#### -Integrated YouTube API with Python (pandas, NLTK) to collect, clean, and structure video metadata for unsupervised learning.
+#### -Reviewed and benchmarked models from IEEE/ACM literature, including Tag-Based Video Retrieval (TBVR) and relevance feedback approaches.
+#### -Evaluated model performance using cluster accuracy metrics and analyzed limitations related to scalability and domain generalization.
 ##
 
 ***Abstract<br/> 
